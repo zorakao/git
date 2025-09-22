@@ -6,3 +6,8 @@ a {
   color: green;
   text-decoration: none;
 }
+
+a:hover {
+  color: tomato;
+  font-size: 20px;
+}
